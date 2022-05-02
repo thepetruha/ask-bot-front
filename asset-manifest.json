@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e50938cc.css",
-    "main.js": "/static/js/main.150892be.js",
-    "static/js/787.0b382c82.chunk.js": "/static/js/787.0b382c82.chunk.js",
-    "static/media/message.svg": "/static/media/message.a1b4d4e28930c425eeab6f7f6d9a6b79.svg",
-    "index.html": "/index.html",
-    "static/media/home.svg": "/static/media/home.c90ad062916da3143607cdae098700c8.svg",
-    "static/media/burger.svg": "/static/media/burger.2db3b79e48256ca1e5f70eb766508a6e.svg",
-    "static/media/select.svg": "/static/media/select.569023bc34d1706bd9cf7427ea6a441b.svg",
-    "main.e50938cc.css.map": "/static/css/main.e50938cc.css.map",
-    "main.150892be.js.map": "/static/js/main.150892be.js.map",
-    "787.0b382c82.chunk.js.map": "/static/js/787.0b382c82.chunk.js.map"
+    "main.css": "/ask-bot-front/static/css/main.e50938cc.css",
+    "main.js": "/ask-bot-front/static/js/main.6ded6532.js",
+    "static/js/787.0b382c82.chunk.js": "/ask-bot-front/static/js/787.0b382c82.chunk.js",
+    "static/media/message.svg": "/ask-bot-front/static/media/message.a1b4d4e28930c425eeab6f7f6d9a6b79.svg",
+    "index.html": "/ask-bot-front/index.html",
+    "static/media/home.svg": "/ask-bot-front/static/media/home.c90ad062916da3143607cdae098700c8.svg",
+    "static/media/burger.svg": "/ask-bot-front/static/media/burger.2db3b79e48256ca1e5f70eb766508a6e.svg",
+    "static/media/select.svg": "/ask-bot-front/static/media/select.569023bc34d1706bd9cf7427ea6a441b.svg",
+    "main.e50938cc.css.map": "/ask-bot-front/static/css/main.e50938cc.css.map",
+    "main.6ded6532.js.map": "/ask-bot-front/static/js/main.6ded6532.js.map",
+    "787.0b382c82.chunk.js.map": "/ask-bot-front/static/js/787.0b382c82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e50938cc.css",
-    "static/js/main.150892be.js"
+    "static/js/main.6ded6532.js"
   ]
 }
