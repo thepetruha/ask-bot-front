@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ask-bot-front/static/css/main.4a36b0c3.css",
-    "main.js": "/ask-bot-front/static/js/main.c0079971.js",
+    "main.js": "/ask-bot-front/static/js/main.e56b01bb.js",
     "static/js/787.0b382c82.chunk.js": "/ask-bot-front/static/js/787.0b382c82.chunk.js",
     "index.html": "/ask-bot-front/index.html",
     "main.4a36b0c3.css.map": "/ask-bot-front/static/css/main.4a36b0c3.css.map",
-    "main.c0079971.js.map": "/ask-bot-front/static/js/main.c0079971.js.map",
+    "main.e56b01bb.js.map": "/ask-bot-front/static/js/main.e56b01bb.js.map",
     "787.0b382c82.chunk.js.map": "/ask-bot-front/static/js/787.0b382c82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a36b0c3.css",
-    "static/js/main.c0079971.js"
+    "static/js/main.e56b01bb.js"
   ]
 }
