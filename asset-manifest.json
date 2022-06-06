@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ask-bot-front/static/css/main.6c3758ff.css",
-    "main.js": "/ask-bot-front/static/js/main.e0665f60.js",
+    "main.js": "/ask-bot-front/static/js/main.0e6d1127.js",
     "static/js/787.0b382c82.chunk.js": "/ask-bot-front/static/js/787.0b382c82.chunk.js",
     "static/media/Nunito-Variable.ttf": "/ask-bot-front/static/media/Nunito-Variable.ba12192be420666fc588.ttf",
     "static/media/Output.svg": "/ask-bot-front/static/media/Output.ccb0c9b55e839282bc4f4e73d04c12d7.svg",
@@ -21,11 +21,11 @@
     "static/media/coins.svg": "/ask-bot-front/static/media/coins.10f6b395f32d77957e160f6ae1e3fa8a.svg",
     "static/media/select.svg": "/ask-bot-front/static/media/select.569023bc34d1706bd9cf7427ea6a441b.svg",
     "main.6c3758ff.css.map": "/ask-bot-front/static/css/main.6c3758ff.css.map",
-    "main.e0665f60.js.map": "/ask-bot-front/static/js/main.e0665f60.js.map",
+    "main.0e6d1127.js.map": "/ask-bot-front/static/js/main.0e6d1127.js.map",
     "787.0b382c82.chunk.js.map": "/ask-bot-front/static/js/787.0b382c82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c3758ff.css",
-    "static/js/main.e0665f60.js"
+    "static/js/main.0e6d1127.js"
   ]
 }
