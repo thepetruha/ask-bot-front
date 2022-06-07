@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/ask-bot-front/static/css/main.848fc8d3.css",
-    "main.js": "/ask-bot-front/static/js/main.abc8eb46.js",
+    "main.css": "/ask-bot-front/static/css/main.2fbe99bb.css",
+    "main.js": "/ask-bot-front/static/js/main.21f9f782.js",
     "static/js/787.0b382c82.chunk.js": "/ask-bot-front/static/js/787.0b382c82.chunk.js",
     "static/media/Nunito-Variable.ttf": "/ask-bot-front/static/media/Nunito-Variable.ba12192be420666fc588.ttf",
+    "static/media/story-main-source.svg": "/ask-bot-front/static/media/story-main-source.ea732af32d936dc4ac7492a4a53bbd88.svg",
     "static/media/Output.svg": "/ask-bot-front/static/media/Output.ccb0c9b55e839282bc4f4e73d04c12d7.svg",
     "static/media/MoreQuestions.svg": "/ask-bot-front/static/media/MoreQuestions.43a85a4ecd839f8c59ff2e33eb62ae01.svg",
     "static/media/Input.svg": "/ask-bot-front/static/media/Input.df83f49433bf273fb60acf240a73734c.svg",
+    "static/media/copyLink.svg": "/ask-bot-front/static/media/copyLink.612141302f866aee4490abc142366f34.svg",
     "static/media/share.svg": "/ask-bot-front/static/media/share.351fcf7293779c0db6a9f8e68c67cdc1.svg",
+    "static/media/downloadStory.svg": "/ask-bot-front/static/media/downloadStory.012c0667a472f8cee6ec0b3d1f7eb2b3.svg",
     "static/media/message.svg": "/ask-bot-front/static/media/message.a1b4d4e28930c425eeab6f7f6d9a6b79.svg",
     "static/media/Button.svg": "/ask-bot-front/static/media/Button.90c454e142b61f44201fc0992f797df3.svg",
     "static/media/Icon.svg": "/ask-bot-front/static/media/Icon.82942b2a32cfaf7a3a8f14d70379b2b1.svg",
@@ -20,12 +23,12 @@
     "static/media/Like.svg": "/ask-bot-front/static/media/Like.dd7dfabc051598f85a195b2b64d24d0f.svg",
     "static/media/coins.svg": "/ask-bot-front/static/media/coins.10f6b395f32d77957e160f6ae1e3fa8a.svg",
     "static/media/select.svg": "/ask-bot-front/static/media/select.569023bc34d1706bd9cf7427ea6a441b.svg",
-    "main.848fc8d3.css.map": "/ask-bot-front/static/css/main.848fc8d3.css.map",
-    "main.abc8eb46.js.map": "/ask-bot-front/static/js/main.abc8eb46.js.map",
+    "main.2fbe99bb.css.map": "/ask-bot-front/static/css/main.2fbe99bb.css.map",
+    "main.21f9f782.js.map": "/ask-bot-front/static/js/main.21f9f782.js.map",
     "787.0b382c82.chunk.js.map": "/ask-bot-front/static/js/787.0b382c82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.848fc8d3.css",
-    "static/js/main.abc8eb46.js"
+    "static/css/main.2fbe99bb.css",
+    "static/js/main.21f9f782.js"
   ]
 }
