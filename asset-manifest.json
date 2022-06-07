@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ask-bot-front/static/css/main.8acce852.css",
-    "main.js": "/ask-bot-front/static/js/main.cfe5961e.js",
+    "main.js": "/ask-bot-front/static/js/main.d29d1b36.js",
     "static/js/787.0b382c82.chunk.js": "/ask-bot-front/static/js/787.0b382c82.chunk.js",
     "static/media/Nunito-Variable.ttf": "/ask-bot-front/static/media/Nunito-Variable.ba12192be420666fc588.ttf",
     "static/media/story-main-source.svg": "/ask-bot-front/static/media/story-main-source.ea732af32d936dc4ac7492a4a53bbd88.svg",
@@ -24,11 +24,11 @@
     "static/media/coins.svg": "/ask-bot-front/static/media/coins.10f6b395f32d77957e160f6ae1e3fa8a.svg",
     "static/media/select.svg": "/ask-bot-front/static/media/select.569023bc34d1706bd9cf7427ea6a441b.svg",
     "main.8acce852.css.map": "/ask-bot-front/static/css/main.8acce852.css.map",
-    "main.cfe5961e.js.map": "/ask-bot-front/static/js/main.cfe5961e.js.map",
+    "main.d29d1b36.js.map": "/ask-bot-front/static/js/main.d29d1b36.js.map",
     "787.0b382c82.chunk.js.map": "/ask-bot-front/static/js/787.0b382c82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8acce852.css",
-    "static/js/main.cfe5961e.js"
+    "static/js/main.d29d1b36.js"
   ]
 }
